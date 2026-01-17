@@ -5,7 +5,7 @@ Este repositório reúne meus estudos e implementações em **Data Analytics** e
 
 ---
 
-> 📂 Projetos
+> 📂 **Projetos**
 
 ### 1. Análise Multidimensional (Clustering & Classificação)
 **Arquivo:** `ML Ops - Clustering Customer.ipynb`
@@ -28,7 +28,7 @@ Este notebook contempla duas frentes principais de estudo técnico:
 
 ---
 
-> 🛠️ Áreas de Estudo e Competências
+> **Áreas de Estudo e Competências**
 
 * **Machine Learning:** Modelagem supervisionada (Classificação) e não-supervisionada (Clustering).
 * **Data Analytics:** Análise exploratória de dados (EDA), tratamento de outliers e engenharia de atributos.
@@ -36,12 +36,15 @@ Este notebook contempla duas frentes principais de estudo técnico:
 
 ---
 
-> 🧰 Stack
+> **Stack**
 
-* **Linguagem:** Python
-** **Manipulação:** Pandas, NumPy
-** **Machine Learning:** Scikit-Learn
-** **Visualização:** Seaborn, Matplotlib, Yellowbrick
+* **Linguagem:** * Python
+* **Manipulação de Dados:** * Pandas
+    * NumPy
+* **Machine Learning:** * Scikit-Learn (KNN, SVM, K-Means)
+* **Visualização & Performance:** * Seaborn
+    * Matplotlib
+    * Yellowbrick (Silhouette Visualizer)
 
 ---
 
