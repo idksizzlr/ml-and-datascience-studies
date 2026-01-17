@@ -10,7 +10,7 @@ Este repositório reúne meus estudos e implementações em **Data Analytics** e
 ### 1. Análise Multidimensional (Clustering & Classificação)
 **Arquivo:** `ML Ops - Clustering Customer.ipynb`
 
-Este notebook contempla duas frentes principais de estudo técnico:
+Esse notebook contempla a progressão nos meus estudos, sendo estrtutrado em duas frentes:
 
 #### **A. Segmentação de Clientes (Clustering)**
 * **Objetivo:** Agrupar perfis de consumo com base em renda anual e score de gastos.
@@ -38,13 +38,17 @@ Este notebook contempla duas frentes principais de estudo técnico:
 
 > **Stack**
 
-* **Linguagem:** * Python
-* **Manipulação de Dados:** * Pandas
-    * NumPy
-* **Machine Learning:** * Scikit-Learn (KNN, SVM, K-Means)
+* **Linguagem:**
+    * Python.
+* **Manipulação de Dados:**
+    * Pandas;
+    * NumPy.
+* **Machine Learning:** 
+    * Scikit-Learn (KNN, SVM, K-Means, etc..)
 * **Visualização & Performance:** * Seaborn
-    * Matplotlib
-    * Yellowbrick (Silhouette Visualizer)
+    * Seaborn;
+    * Matplotlib;
+    * Yellowbrick.
 
 ---
 
