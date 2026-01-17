@@ -24,7 +24,7 @@ Esse notebook contempla a progressão nos meus estudos, sendo estrtutrado em dua
 #### **C. Definição e análise de indicadores de avaliação**
 * **Métricas internas:** Inertia (WCSS), Silhouette Score e Davies-Bouldin Index.
 * **Métricas externas:** Adjusted Rand Index (ARI), Normalized Mutual Information (NMI) e Fowlkes-Mallow Index.
-* **Ademais:** Cross-validation explanation
+* **Ademais:** Cross-validation & Regularization (Ridge and Lasso) explanation.
 
 ---
 
