@@ -8,7 +8,7 @@ Este repositório reúne meus estudos e implementações em **Data Analytics** e
 > 📂 **Projetos**
 
 ### 1. Análise Multidimensional (Clustering & Classificação)
-**Arquivo:** `ML Ops - Supervisioned & unsupervisioned models, Metrics and Pipelines.ipynb`
+**Arquivo:** `ML Ops - Clustering, Metrics, CV and Pipelines.ipynb`
 
 Esse notebook contempla a progressão nos meus estudos, sendo estrtutrado em duas frentes:
 
